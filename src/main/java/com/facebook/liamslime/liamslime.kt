@@ -11,7 +11,7 @@ package com.facebook.liamslime
 import android.app.Application
 import com.facebook.drawee.backends.pipeline.Fresco
 
-class FBLoginSampleApp : Application() {
+class LiamSlime : Application() {
   override fun onCreate() {
     super.onCreate()
     Fresco.initialize(this)
