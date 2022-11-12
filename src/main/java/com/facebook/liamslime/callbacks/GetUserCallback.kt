@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.facebook.fbloginsample.callbacks
+package com.facebook.liamslime.callbacks
 
 import android.net.Uri
 import com.facebook.GraphRequest
