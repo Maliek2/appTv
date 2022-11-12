@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.facebook.fbloginsample
+package com.facebook.liamslime
 
 import android.app.Activity
 import android.content.Intent
